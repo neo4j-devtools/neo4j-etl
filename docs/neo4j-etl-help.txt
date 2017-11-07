@@ -1,0 +1,8 @@
+usage: neo4j-etl <command> [ <args> ]
+
+Commands are:
+    export                      Export from RDBMS and import into NEO4J via CSV files.
+    generate-metadata-mapping   Create RDBMS to Neo4j metadata mapping Json.
+    help                        Display help information
+
+See 'neo4j-etl help <command>' for more information on a specific command.
